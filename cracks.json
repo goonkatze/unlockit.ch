@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "6",
+    "id": "7",
     "title": "Bot Maker for discord",
     "description": "You can extend Bot Maker for Discord with community-made commands, events, actions, automations & more via Steam Workshop.",
     "categoryIds": ["tools"],
@@ -92,11 +92,11 @@
     "dateAdded": "2025-08-20T12:00:00Z",
     "downloads": 300,
     "links": [
-      {"label": "Download", "url": "https://akirabox.com/LK0G14pJwz91/file"}
+      {"label": "Download", "url": "https://akirabox.com/5pVzNwBEJG7w/file"}
     ]
   },  
   {
-    "id": "7",
+    "id": "8",
     "title": "Half Life 2",
     "description": "Newest Version!",
     "categoryIds": ["fps"],
