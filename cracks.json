@@ -50,7 +50,7 @@
   {
     "id": "5",
     "title": "People playground",
-    "description": "Newest Version!",
+    "description": "Shoot, stab, burn, poison, tear, vaporise, or crush ragdolls. This game is for people who enjoy throwing around ragdolls but want it to be more detailed, satisfying, and feel more free while doing so",
     "categoryIds": ["sandbox"],
     "sizeMB": 196.24,
     "dateAdded": "2025-08-20T12:00:00Z",
@@ -61,6 +61,42 @@
   },
   {
     "id": "6",
+    "title": "Discord Bot builder",
+    "description": "Discord Bot Builder is an interactive program with a friendly user interface to help people without programming skills to create their Discord bots.",
+    "categoryIds": ["tools"],
+    "sizeMB": 196.24,
+    "dateAdded": "2025-08-20T12:00:00Z",
+    "downloads": 300,
+    "links": [
+      {"label": "Download", "url": "https://akirabox.com/LK0G14pJwz91/file"}
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Discord Bot Maker",
+    "description": "Discord Bot Builder is an interactive program with a friendly user interface to help people without programming skills to create their Discord bots.",
+    "categoryIds": ["tools"],
+    "sizeMB": 196.24,
+    "dateAdded": "2025-08-20T12:00:00Z",
+    "downloads": 300,
+    "links": [
+      {"label": "Download", "url": "https://akirabox.com/LK0G14pJwz91/file"}
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bot Maker for discord",
+    "description": "You can extend Bot Maker for Discord with community-made commands, events, actions, automations & more via Steam Workshop.",
+    "categoryIds": ["tools"],
+    "sizeMB": 196.24,
+    "dateAdded": "2025-08-20T12:00:00Z",
+    "downloads": 300,
+    "links": [
+      {"label": "Download", "url": "https://akirabox.com/LK0G14pJwz91/file"}
+    ]
+  },  
+  {
+    "id": "7",
     "title": "Half Life 2",
     "description": "Newest Version!",
     "categoryIds": ["fps"],
