@@ -94,9 +94,33 @@
     "links": [
       {"label": "Download", "url": "https://akirabox.com/APVmapB46GXo/file"}
     ]
-  },  
+  },
   {
     "id": "8",
+    "title": "Ages of Conflict: World War Simulator",
+    "description": "In this game, you’ll watch as custom-built AI nations compete against each other to ultimately dominate the world in a massive free-for-all, complete with alliances, revolts, puppet states, and all kinds of political twists and turns!",
+    "categoryIds": ["sim"],
+    "sizeMB": 994.63,
+    "dateAdded": "2025-08-20T12:00:00Z",
+    "downloads": 300,
+    "links": [
+      {"label": "Download", "url": "https://akirabox.com/BnkmW7PpamR0/file"}
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Dummynation",
+    "description": "You are granted unlimited power over a country, with only one goal: world domination. How you achieve this goal is entirely up to you.",
+    "categoryIds": ["sim, action"],
+    "sizeMB": 994.63,
+    "dateAdded": "2025-08-20T12:00:00Z",
+    "downloads": 300,
+    "links": [
+      {"label": "Download", "url": "https://akirabox.com/0rpmvL8l7zRg/file"}
+    ]
+  },  
+  {
+    "id": "10",
     "title": "Half Life 2",
     "description": "Newest Version!",
     "categoryIds": ["fps"],
